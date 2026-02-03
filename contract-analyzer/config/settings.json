@@ -1,0 +1,75 @@
+{
+  "app_name": "Legal Contract Analysis Assistant",
+  "version": "1.0.0",
+  "target_users": "Indian SMEs",
+  
+  "disclaimer": {
+    "text": "This analysis is for informational and analytical purposes only and does not constitute legal advice. All interpretations are based solely on the provided contract text.",
+    "display_always": true
+  },
+  
+  "supported_languages": ["english", "hindi"],
+  
+  "supported_contract_types": [
+    "Employment Agreement",
+    "Vendor / Supplier Contract",
+    "Service Agreement",
+    "Lease / Rental Agreement",
+    "Partnership Deed",
+    "Licensing Agreement",
+    "NDA / Confidentiality Agreement",
+    "Other"
+  ],
+  
+  "risk_levels": {
+    "low": {
+      "threshold_min": 0,
+      "threshold_max": 29,
+      "color": "#4caf50",
+      "label": "Low Risk"
+    },
+    "medium": {
+      "threshold_min": 30,
+      "threshold_max": 59,
+      "color": "#ff9800",
+      "label": "Medium Risk"
+    },
+    "high": {
+      "threshold_min": 60,
+      "threshold_max": 100,
+      "color": "#f44336",
+      "label": "High Risk"
+    }
+  },
+  
+  "analysis_parameters": {
+    "min_clause_length": 50,
+    "max_chunk_size": 1000,
+    "min_contract_length": 100,
+    "entity_extraction_enabled": true,
+    "risk_scoring_enabled": true,
+    "renegotiation_suggestions_enabled": true
+  },
+  
+  "output_formats": [
+    "json",
+    "markdown",
+    "streamlit_ui"
+  ],
+  
+  "legal_jurisdiction": "India",
+  
+  "features": {
+    "clause_extraction": true,
+    "named_entity_recognition": true,
+    "obligation_detection": true,
+    "rights_detection": true,
+    "prohibition_detection": true,
+    "ambiguity_detection": true,
+    "risk_scoring": true,
+    "contract_classification": true,
+    "plain_language_summary": true,
+    "renegotiation_suggestions": true,
+    "export_capabilities": true
+  }
+}

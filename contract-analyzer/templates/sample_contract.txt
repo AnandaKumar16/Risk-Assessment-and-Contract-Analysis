@@ -1,0 +1,168 @@
+# Sample Contract for Testing
+
+## SERVICE AGREEMENT
+
+**This Service Agreement** ("Agreement") is entered into on January 15, 2026 ("Effective Date")
+
+**BETWEEN:**
+
+TechStart Solutions Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 123 MG Road, Bangalore, Karnataka - 560001 ("Service Provider")
+
+**AND**
+
+ABC Manufacturing Pvt Ltd, a company incorporated under the Companies Act, 2013, having its registered office at 456 Industrial Area, Mumbai, Maharashtra - 400001 ("Client")
+
+---
+
+## 1. SCOPE OF SERVICES
+
+1.1 The Service Provider shall provide software development and maintenance services as detailed in Schedule A attached hereto.
+
+1.2 The Service Provider shall deliver the completed software modules within 6 months from the Effective Date.
+
+---
+
+## 2. PAYMENT TERMS
+
+2.1 The Client shall pay the Service Provider a total fee of Rs. 25,00,000 (Rupees Twenty-Five Lakhs only) as follows:
+   - 30% upon signing (Rs. 7,50,000)
+   - 40% upon delivery of Phase 1 (Rs. 10,00,000)
+   - 30% upon final delivery and acceptance (Rs. 7,50,000)
+
+2.2 All payments shall be made within 15 days of invoice receipt.
+
+2.3 Late payments shall attract a penalty of 2% per month.
+
+---
+
+## 3. INTELLECTUAL PROPERTY RIGHTS
+
+3.1 All intellectual property rights in the software developed under this Agreement shall be exclusively owned by the Client upon full payment.
+
+3.2 The Service Provider hereby assigns, transfers, and conveys to the Client all rights, title, and interest in and to all work product.
+
+3.3 The Service Provider waives all moral rights in the work product.
+
+---
+
+## 4. CONFIDENTIALITY
+
+4.1 The Service Provider acknowledges that it may receive confidential information from the Client during the course of this engagement.
+
+4.2 The Service Provider shall maintain strict confidentiality and shall not disclose any confidential information to third parties.
+
+4.3 This confidentiality obligation shall survive in perpetuity.
+
+4.4 Breach of confidentiality may result in immediate termination and liquidated damages of Rs. 50,00,000.
+
+---
+
+## 5. LIABILITY AND INDEMNIFICATION
+
+5.1 The Service Provider shall indemnify and hold harmless the Client from any and all claims, damages, losses, and expenses arising from the Service Provider's performance of services under this Agreement.
+
+5.2 The Service Provider's liability under this Agreement shall be unlimited and shall include all direct, indirect, consequential, and punitive damages.
+
+5.3 The Service Provider shall obtain and maintain professional liability insurance with coverage of not less than Rs. 1,00,00,000.
+
+---
+
+## 6. NON-COMPETE AND NON-SOLICITATION
+
+6.1 During the term of this Agreement and for a period of 5 years thereafter, the Service Provider shall not:
+   a) Engage in any business that competes with the Client
+   b) Solicit or attempt to solicit any customers or clients of the Client
+   c) Employ or engage any person who is or was employed by the Client
+
+6.2 This restriction applies globally.
+
+---
+
+## 7. TERMINATION
+
+7.1 The Client may terminate this Agreement at any time, with or without cause, by providing written notice to the Service Provider.
+
+7.2 Upon termination by the Client, the Service Provider shall immediately cease all work and deliver all completed and incomplete work product to the Client.
+
+7.3 The Client shall have no obligation to pay for work in progress at the time of termination.
+
+7.4 The Service Provider may only terminate this Agreement for material breach by the Client, and only if such breach remains uncured for 90 days after written notice.
+
+---
+
+## 8. TERM AND RENEWAL
+
+8.1 This Agreement shall commence on the Effective Date and continue for an initial term of 2 years.
+
+8.2 This Agreement shall automatically renew for successive 2-year terms unless the Service Provider provides written notice of non-renewal at least 180 days prior to the end of the then-current term.
+
+8.3 Failure to provide timely notice shall result in automatic renewal, and early termination during a renewal term shall result in a penalty equal to 50% of the remaining contract value.
+
+---
+
+## 9. WARRANTIES
+
+9.1 The Service Provider warrants that:
+   a) The software will be free from defects for a period of 3 years
+   b) The software will meet all specifications and requirements as determined by the Client in its sole discretion
+   c) The software will operate without interruption or error
+
+9.2 The Service Provider provides unlimited warranty support at no additional cost.
+
+9.3 Any defects must be corrected within 24 hours of notification.
+
+---
+
+## 10. DISPUTE RESOLUTION
+
+10.1 Any disputes arising under this Agreement shall be subject to arbitration in London, United Kingdom.
+
+10.2 The arbitration shall be conducted in accordance with the rules of the London Court of International Arbitration.
+
+10.3 Each party shall bear its own costs, and the losing party shall pay all of the prevailing party's legal fees and costs.
+
+10.4 This Agreement shall be governed by the laws of England and Wales.
+
+---
+
+## 11. CHANGES AND AMENDMENTS
+
+11.1 The Client may request changes to the scope of services at any time.
+
+11.2 The Service Provider shall accommodate all change requests without additional charge, provided the total changes do not exceed reasonable limits as determined by the Client.
+
+11.3 Changes requested by the Client shall not extend the delivery timeline.
+
+---
+
+## 12. REPRESENTATIONS
+
+12.1 The Service Provider represents and warrants that it has all necessary expertise, resources, and capabilities to perform the services.
+
+12.2 The Service Provider represents that the software will be suitable for all purposes, known or unknown.
+
+---
+
+## 13. GENERAL PROVISIONS
+
+13.1 This Agreement may be amended by the Client at any time by providing written notice to the Service Provider.
+
+13.2 The Service Provider's continued performance after such amendment shall constitute acceptance.
+
+13.3 This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and assigns; provided that the Service Provider may not assign this Agreement without the prior written consent of the Client.
+
+---
+
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the Effective Date.
+
+**For TechStart Solutions Private Limited:**
+
+Name: Rajesh Kumar  
+Designation: Director  
+Signature: _________________
+
+**For ABC Manufacturing Pvt Ltd:**
+
+Name: Priya Sharma  
+Designation: CEO  
+Signature: _________________

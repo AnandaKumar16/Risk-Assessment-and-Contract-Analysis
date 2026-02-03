@@ -1,0 +1,27 @@
+# Python Package Requirements
+# Legal Contract Analysis Assistant for Indian SMEs
+
+# Core Web Framework
+streamlit>=1.28.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+
+# NLP & Text Processing
+spacy>=3.7.0
+nltk>=3.8.0
+
+# Translation
+googletrans==4.0.0-rc1
+
+# Utilities
+python-dateutil>=2.8.2
+

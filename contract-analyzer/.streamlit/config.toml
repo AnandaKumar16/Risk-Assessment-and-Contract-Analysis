@@ -1,0 +1,7 @@
+[server]
+# NOTE: For local development only. Relaxing these can cause 403 in embedded browsers.
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+serverAddress = "localhost"
